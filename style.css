@@ -140,7 +140,6 @@ body {
     }
 
     .mockup {
-        height: 80vh;
         margin-bottom: 0;
     }
 
@@ -159,5 +158,9 @@ body {
 @media(min-width:1440px) {
     .heading {
         font-size: 2.5rem;
+    }
+
+    .info-container {
+        margin-bottom: 5rem;
     }
 }
