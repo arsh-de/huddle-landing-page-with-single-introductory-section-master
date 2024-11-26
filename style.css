@@ -163,4 +163,8 @@ body {
     .info-container {
         margin-bottom: 5rem;
     }
+
+    .footer {
+        margin-top: 0;
+    }
 }
