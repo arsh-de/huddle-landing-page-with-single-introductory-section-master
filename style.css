@@ -137,9 +137,11 @@ body {
 
     .img-container {
         width: 60%;
+        height: 550px;
     }
 
     .mockup {
+        height: 100%;
         margin-bottom: 0;
     }
 
